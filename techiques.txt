@@ -1,0 +1,6 @@
+python
+java
+data base management systems
+c language
+java scripts 
+devops
