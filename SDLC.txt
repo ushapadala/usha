@@ -1,0 +1,9 @@
+1.planning
+2.design
+3.development
+4.testing
+5.deployment
+6.maintanance
+this is 2 types
+waterfall model
+agile methodology
